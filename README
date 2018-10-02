@@ -1,0 +1,8 @@
+Assignment Instructions:
+------------------------
+Rewrite the provided Ada program in Java, complete with exception handling.
+
+My Notes:
+---------
+The code reads in natural integers (on a scale of 0-100) from standard input and
+creates a distribution of those "grades" (count of grades between 0-9, 10-19, …, 90-100).
