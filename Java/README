@@ -1,3 +1,4 @@
-COMMANDS:
+How to compile & run the code (from a Unix machine):
+----------------------------------------------------
 javac <filename>.java
 java <filename>
