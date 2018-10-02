@@ -1,0 +1,4 @@
+COMMANDS:
+gcc -c <filename>.adb
+gnatmake-7 --GNATBIND=gnatbind-7 --GNATLINK=gnatlink-7 <filename>
+./<filename>
